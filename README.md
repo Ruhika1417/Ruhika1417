@@ -1,16 +1,17 @@
-### Hi there 👋
+### HELLO WORLD, I'm Ruhika👋
+I'm a Student & a developer
 
-<!--
-**Ruhika1417/Ruhika1417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as Management & Technical Core Team Member for Student Body Council at my College
+- 🌱 I’m currently learning Flutter,DataBase & Management Systems & Computer Neworking
+- 👯 I’m looking to collaborate with other flutter developers on side projects to enhance my flutter skills ...
+- 💻 I’ve explored Salesforce Cloud Computing & Programming languages like Java & C++ 
+- ✨ 2021 Goals: Make distinctive Open Source Contributions,conduct tech workshops, write blogs, learn more about finance etc
+- ⚡ Fun fact: I like Organic Chemistry, editing pics & can eat my pasta until i puke haha lol
+- 🕯️ I manifest to  get less errors & not be stuck on any expection for more than a day <3. Manifesting for no error didnt work, sorry
+ 
+ 
+ 
