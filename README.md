@@ -3,7 +3,7 @@ I'm a Student & a developer
 
 
 
-Here are some ideas to get you started:
+ABOUT ME..
 
 - 🔭 I’m currently working as a Management & Technical Core Team Member for Student Body Council at my College
 - 🌱 I’m currently learning Flutter,DataBase & Management Systems & Computer Neworking
