@@ -6,7 +6,7 @@ I'm a Student & a developer
 ABOUT ME..
 
 - 🔭 I’m currently working as a Management & Technical Core Team Member for Student Body Council at my College
-- 🌱 I’m currently learning Flutter,DataBase & Management Systems & Computer Neworking
+- 🌱 I’m currently learning Flutter,DataBase & Management Systems
 - 👯 I’m looking to collaborate with other flutter developers on beginner to intermediate side projects to enhance my flutter skills..
 - 💻 I’ve explored Salesforce Cloud Computing & Programming languages like Java & C++ 
 - ✨ 2021 Goals: Make distinctive Open Source Contributions,conduct tech workshops, write blogs, learn more about finance etc
