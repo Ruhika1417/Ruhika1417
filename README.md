@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruhika</h1>
 <h3 align="center">A passionate Information Technology undergrad from India</h3>
 
-<img src="https://media2.giphy.com/media/3ohhwxWDV25DWpgleU/giphy.gif?cid=ecf05e4703dngbrf94je3q4rqw5ozp9x6uv9o04z8boij9hl&rid=giphy.gif&ct=g
-" alt="Coder GIF" width="500">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
 
 - 🌱 I’m currently learning **Go and near future goals include learning ML**
 
