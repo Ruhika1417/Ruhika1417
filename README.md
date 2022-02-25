@@ -3,7 +3,7 @@
 
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
 
-- 🌱 I’m currently learning **Go and near future goals include learning ML**
+- 🌱 I’m currently learning **Go and near future goals include learning Kubernetes and contributing to Open-Source**
 
 - 📫 How to reach me **ruhika406@gmail.com**
 
