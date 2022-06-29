@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruhika</h1>
 <h3 align="center">A passionate Information Technology undergrad from India</h3>
 
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
-
 - 🌱 I’m currently learning **Go and my near future goals include learning Kubernetes and contributing to Open-Source**
 
 - 📫 How to reach me **ruhika406@gmail.com**
