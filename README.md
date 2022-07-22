@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ruhika</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Ruhika</h1>
+<h5 align="center">
 <h3 align="center">A passionate Information Technology undergrad from India</h3>
 
 - 🌱 I’m currently learning **Go and my near future goals include learning Kubernetes and contributing to Open-Source**
