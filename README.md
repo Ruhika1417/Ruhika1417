@@ -17,4 +17,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ruhika1417&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ruhika1417&bg_color=1d1b1c&color=b18cae&line=b0def2&point=e6e0e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
